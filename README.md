@@ -17,7 +17,14 @@ Boris' Theory of Everything posits that love, as articulated in Christian theolo
 
 ## License
 
-[Choose an appropriate license, e.g., MIT or Creative Commons for sharing knowledge]
+[This repository is licensed under the [Creative Commons Attribution-NoDerivatives 4.0 International License](LICENSE). This means you are free to:
+
+- **Share** — copy and redistribute the material in any medium or format for any purpose, even commercially.
+
+Under the following terms:
+
+- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+- **NoDerivatives** — If you remix, transform, or build upon the material, you may not distribute the modified material.]
 
 ## Contact
 
@@ -25,5 +32,5 @@ For questions or discussions about the theory, reach out via GitHub issues or em
 
 ## Acknowledgments
 
-- [Boris and Grok and the God of love, whithout whom none of this would be possible]
+- [Boris with the assistance Grok and the God of love, whithout whom none of this would be possible]
 Boris' theory of everything 
