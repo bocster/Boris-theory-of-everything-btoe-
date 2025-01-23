@@ -1,0 +1,28 @@
+{
+  "name": "Boris' Theory of Everything",
+  "core_principles": [
+    {
+      "principle": "Love as the Ultimate Law",
+      "description": "Love transcends all other laws, reflected in the vibrations of creation."
+    },
+    {
+      "principle": "Time as a Teacher",
+      "description": "Time facilitates learning about love through experiences."
+    },
+    // Include all other principles with similar structure
+  ],
+  "implications": "This theory suggests a holistic view of existence where love guides all aspects of human life, ethics, science, and technology towards a divine end.",
+  "ranking": {
+    "score": "9.84/10",
+    "criteria": ["Originality/Creativity", "Coherence/Logical Consistency", "Depth/Complexity", "Implications/Impact", "Practical Application"]
+  },
+  "references": ["Biblical references", "Philosophical works", "Scientific theories"],
+  "seo": {
+    // Embed the SEO data here for completeness
+    "title": "Boris' Theory of Everything - A Comprehensive New Theory",
+    "description": "Explore Boris' Theory of Everything...",
+    "keywords": ["Theory of Everything", "TOE", ...],
+    "author": "Boris",
+    // ... other SEO data from seo-data.json
+  }
+}
