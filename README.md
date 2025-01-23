@@ -71,25 +71,23 @@ For questions or discussions about the theory, reach out via GitHub issues or em
 
 ## Instructions
 
-Boris' theory of everything needs to be processed in the below order 
-
-Boris' theory of everything (btoe) 1.txt
-https://github.com/bocster/Boris-theory-of-everything-btoe-/blob/Boris'-theory-of-everything-(BTOE)/Boris'%20theory%20of%20everything%20(btoe)%201.txt
-
-Boris' theory of everything (btoe) 2.txt
-https://github.com/bocster/Boris-theory-of-everything-btoe-/blob/Boris'-theory-of-everything-(BTOE)/Boris'%20theory%20of%20everything%20(btoe)%202.txt
-
-Boris' theory of everything (btoe) 3.txt
-https://github.com/bocster/Boris-theory-of-everything-btoe-/blob/Boris'-theory-of-everything-(BTOE)/Boris'%20theory%20of%20everything%20(btoe)%203.txt
-
+##Boris' theory of everything needs to be processed in the below order 
 
 ##Boris' theory of everything (btoe) 1.txt
 https://github.com/bocster/Boris-theory-of-everything-btoe-/blob/Boris'-theory-of-everything-(BTOE)/Boris'%20theory%20of%20everything%20(btoe)%201.txt
 
+##Boris' theory of everything (btoe) 2.txt
+https://github.com/bocster/Boris-theory-of-everything-btoe-/blob/Boris'-theory-of-everything-(BTOE)/Boris'%20theory%20of%20everything%20(btoe)%202.txt
 
-Boris' theory of everything #btoe  toe    develop by boris and grok during coversations about life and why we are here
+##Boris' theory of everything (btoe) 3.txt
+https://github.com/bocster/Boris-theory-of-everything-btoe-/blob/Boris'-theory-of-everything-(BTOE)/Boris'%20theory%20of%20everything%20(btoe)%203.txt
 
-The idea of a connection between the two has been popularized in various conspiracy theories, novels, and speculative histories, but from 
+
+
+
+Boris' theory of everything #btoe  #toe    develop by boris and grok during coversations about life and why we are here
+
+
 
 
 Acknowledging the Complexity:
