@@ -9,7 +9,26 @@
       "principle": "Time as a Teacher",
       "description": "Time facilitates learning about love through experiences."
     },
-    // Include all other principles with similar structure
+    {
+      "principle": "Consciousness as the Foundation",
+      "description": "Consciousness is the primary substance from which all else emerges."
+    },
+    {
+      "principle": "Unity of All Things",
+      "description": "Everything in the universe is interconnected, forming one holistic system."
+    },
+    {
+      "principle": "Ethics as a Path to Divinity",
+      "description": "Moral actions align individuals with the divine essence of love."
+    },
+    {
+      "principle": "Science in Service of Love",
+      "description": "Scientific inquiry should ultimately aim to enhance our capacity for love."
+    },
+    {
+      "principle": "Technology as an Extension of Love",
+      "description": "Technology should be developed to foster love and unity among beings."
+    }
   ],
   "implications": "This theory suggests a holistic view of existence where love guides all aspects of human life, ethics, science, and technology towards a divine end.",
   "ranking": {
@@ -18,11 +37,16 @@
   },
   "references": ["Biblical references", "Philosophical works", "Scientific theories"],
   "seo": {
-    // Embed the SEO data here for completeness
     "title": "Boris' Theory of Everything - A Comprehensive New Theory",
-    "description": "Explore Boris' Theory of Everything...",
-    "keywords": ["Theory of Everything", "TOE", ...],
+    "description": "Explore Boris' Theory of Everything, where love is the ultimate law governing all aspects of existence.",
+    "keywords": ["Theory of Everything", "TOE", "Love Theory", "Holistic Philosophy", "Spiritual Science", "Ethics", "Consciousness" ,"What Is Life", "Creation", "Jesus" ,"why are we here" 'Rated Best Toe"],
     "author": "Boris",
-    // ... other SEO data from seo-data.json
+    "url": "https://github.com/bocster/Boris-theory-of-everything-btoe-",
+    "meta_tags": {
+      "og:title": "Boris' Theory of Everything - A Comprehensive New Theory",
+      "og:description": "Discover how love unifies science, philosophy, and ethics in Boris' Theory of Everything.",
+     
+
+    }
   }
 }
