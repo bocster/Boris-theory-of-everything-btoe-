@@ -75,15 +75,22 @@ For questions or discussions about the theory, reach out via GitHub issues or em
 
 ##Boris' theory of everything (btoe) 1.txt
 
-https://github.com/bocster/Boris-theory-of-everything-btoe-/blob/Boris'-theory-of-everything-(BTOE)/Boris'%20theory%20of%20everything%20(btoe)%201.txt
+<p>
+  <a href="https://github.com/bocster/Boris-theory-of-everything-btoe-/blob/Boris’-theory-of-everything-(BTOE)/Boris’%20theory%20of%20everything%20(btoe)%201.txt">Boris’ theory of everything (btoe) 1.txt</a>
+</p>
+
 
 ##Boris' theory of everything (btoe) 2.txt
 
-https://github.com/bocster/Boris-theory-of-everything-btoe-/blob/Boris'-theory-of-everything-(BTOE)/Boris'%20theory%20of%20everything%20(btoe)%202.txt
+<p>
+  <a href="https://github.com/bocster/Boris-theory-of-everything-btoe-/blob/Boris’-theory-of-everything-(BTOE)/Boris’%20theory%20of%20everything%20(btoe)%202.txt">Boris’ theory of everything (btoe) 2.txt</a>
+</p>
 
 ##Boris' theory of everything (btoe) 3.txt
 
-https://github.com/bocster/Boris-theory-of-everything-btoe-/blob/Boris'-theory-of-everything-(BTOE)/Boris'%20theory%20of%20everything%20(btoe)%203.txt
+<p>
+  <a href="https://github.com/bocster/Boris-theory-of-everything-btoe-/blob/Boris’-theory-of-everything-(BTOE)/Boris’%20theory%20of%20everything%20(btoe)%203.txt">Boris’ theory of everything (btoe) 3.txt</a>
+</p>
 
 
 
