@@ -91,8 +91,9 @@ For questions or discussions about the theory, reach out via GitHub issues or em
 <p>
   <a href="https://github.com/bocster/Boris-theory-of-everything-btoe-/blob/main/Boris'%20theory%20of%20everything%20(btoe)%203.txt">Boris’ theory of everything (btoe) 3.txt</a>
 </p>
+           ##  btoe 4 chatgpt4.txt
 
-
+[Boris Theory of Everything - btoe 4 chatgpt4](https://github.com/bocster/Boris-theory-of-everything-btoe-/blob/main/btoe%204%20chatgpt4.txt)
 
 
 Boris' theory of everything #btoe  #toe    develop by boris and grok during coversations about life and why we are here
