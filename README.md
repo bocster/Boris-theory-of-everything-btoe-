@@ -16,7 +16,7 @@ Discover a unique synthesis where love is the ultimate law guiding human existen
 - **HTML for SEO and Humans**: [boris-theory-seo.html](boris-theory-seo.html)
 - **JSON Data for AI**: [boris-theory-data.json](boris-theory-data.json)
 - **SEO Meta Tags**: [seo-data.json](seo-data.json)
-- **[BTOE_Full_theory.md (Over 1M characters)](https://github.com/bocster/Boris-theory-of-everything-btoe-/blob/main/BTOE_Full_Theory.md)
+- **BTOE_Full_Theory.md** [BTOE_Full_theory.md (Over 1M characters)](https://github.com/bocster/Boris-theory-of-everything-btoe-/blob/main/BTOE_Full_Theory.md)
 
 This project integrates theology, philosophy, science, and speculative elements into a narrative where love is both the journey and the destination of human existence.
 
