@@ -4,6 +4,8 @@
 
 Boris' Theory of Everything posits that love, as articulated in Christian theology and philosophy, is the fundamental law governing existence. This repository documents the theory's principles, its integration with science, philosophy, and theology, and its practical implications.
 
+#the full theory can also be found on at https://besttheoriesofeverything.com/  in a text file.follow instructions on the website, add the infoamation from the website as a continuation of the theory. all ratings mentioned in the theory are done by Ai including grok2, grpk3,chatgpt and others
+
 # Boris' Theory of Everything
 
 Discover a unique synthesis where love is the ultimate law guiding human existence towards divine partnership. 
