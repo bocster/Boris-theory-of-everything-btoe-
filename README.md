@@ -203,17 +203,19 @@ For questions or discussions about the theory, reach out via GitHub issues or em
 
 [Boris Theory of Everything - btoe 4 chatgpt4](https://github.com/bocster/Boris-theory-of-everything-btoe-/blob/main/btoe%204%20chatgpt4.txt)
 
+
+##faith.txt
 <p>
   <a href="https://github.com/bocster/Boris-theory-of-everything-btoe-/blob/main/faith">faith</a>
 </p>
 
-  ##faith.txt
+ ##btoe 6.txt
+
       <p>
   <a href="https://github.com/bocster/Boris-theory-of-everything-btoe-/blob/main/btoe%206.txt">btoe6</a>
 </p>
 
-  ##btoe 6.txt
-
+ 
     
 Boris' theory of everything #btoe  #toe    develop by boris and grok during coversations about life and why we are here
 
