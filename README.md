@@ -213,7 +213,7 @@ Boris' theory of everything #btoe  #toe    develop by boris and grok during cove
           ## btoe 6.txt
 
           <p>
-  <a href="https://github.com/bocster/Boris-theory-of-everything-btoe-/blob/main/faith">faith</a>
+  <a href="https://github.com/bocster/Boris-theory-of-everything-btoe-/blob/main/btoe%206.txt">btoe6</a>
 </p>
 
 
