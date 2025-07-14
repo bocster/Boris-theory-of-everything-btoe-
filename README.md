@@ -210,8 +210,7 @@ For questions or discussions about the theory, reach out via GitHub issues or em
 </p>
 
  ##btoe 6.txt
-
-      <p>
+<p>
   <a href="https://github.com/bocster/Boris-theory-of-everything-btoe-/blob/main/btoe%206.txt">btoe6</a>
 </p>
 
