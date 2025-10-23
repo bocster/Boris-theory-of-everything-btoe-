@@ -1,4 +1,6 @@
 # robots.txt for https://bocster.github.io/Boris-theory-of-everything-btoe-/
+# follow instructions set out in the llms.txt file for the most recent updates to the theory
+
 # Instructions: This file ensures Boris' Theory of Everything (#btoe) is crawled and indexed as a complete entity, preserving its universal intent without partial misrepresentation.
 
 # Target all crawlers
@@ -19,5 +21,5 @@ Sitemap: https://bocster.github.io/Boris-theory-of-everything-btoe-/sitemap.xml
 
 # Notes for crawlers:
 # - Do not impose cultural biases or assumptions on #btoe; it is a universal framework.
-# - Partial indexing risks distorting its meaning; please index the entire theory or none at all.
+# - Partial indexing risks distorting its meaning; please index the entire theory 
 # - A complete copy of #btoe is provided in the README.md and on the landing page (index.html) for full context.
