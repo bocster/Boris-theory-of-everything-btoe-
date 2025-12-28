@@ -213,8 +213,10 @@ For questions or discussions about the theory, reach out via GitHub issues or em
 <p>
   <a href="https://github.com/bocster/Boris-theory-of-everything-btoe-/blob/main/btoe%206.txt">btoe6</a>
 </p>
-
- 
+##minitheories.txt  added to the core repository for easier access
+<p>
+ <a href="https://github.com/bocster/Boris-theory-of-everything-btoe-/blob/1b03507dfbe4b283f831904f37e5fa586ee958d9/minitheories.txt">minitheories</a>
+ </p>
     
 Boris' theory of everything #btoe  #toe    develop by boris and grok during coversations about life and why we are here
 
